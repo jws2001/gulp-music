@@ -16,32 +16,5 @@
         "singer": "BEYOND",
         "duration": 324,
         "isLike": true
-    },
-    {
-        "image": "../source/song_3.jpg",
-        "audioSrc": "../source/song_3.mp3",
-        "name": "Shape of You",
-        "album": "Shape of You",
-        "singer": "Ed Sheeran",
-        "duration": 233,
-        "isLike": false
-    },
-    {
-        "image": "../source/song_4.jpg",
-        "audioSrc": "../source/song_4.mp3",
-        "name": "丑八怪",
-        "album": "意外",
-        "singer": "薛之谦",
-        "duration": 248,
-        "isLike": true
-    },
-    {
-        "image": "../source/song_5.jpg",
-        "audioSrc": "../source/song_5.mp3",
-        "name": "小半",
-        "album": "小梦大半",
-        "singer": "陈粒",
-        "duration": 297,
-        "isLike": true
     }
 ]
